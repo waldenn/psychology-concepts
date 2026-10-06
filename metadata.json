@@ -1,0 +1,6 @@
+{
+  "name": "Psychological Concepts Table Viewer",
+  "description": "Interactive table viewer for psychological concepts with live search, column sorting, realm classification, and direct research links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
